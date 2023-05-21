@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'ScaProject'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C5F72B7795B44044B47D3A91D5DE7CA7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7D12F0E22C594CAF8D7F6658095564E6 }}
           package: .
